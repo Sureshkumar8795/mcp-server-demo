@@ -1,4 +1,4 @@
-# 🚀 MCP Server Demo with FastMCP
+# MCP Server Demo with FastMCP
 
 A beginner-friendly **Model Context Protocol (MCP)** server built using the **official FastMCP Python SDK**.
 
