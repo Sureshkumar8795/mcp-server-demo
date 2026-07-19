@@ -223,7 +223,7 @@ You can add screenshots of
 **Sureshkumar**
 
 GitHub:
-https://github.com/
+https://github.com/Sureshkumar8795/mcp-server-demo.git
 
 ---
 
